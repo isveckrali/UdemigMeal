@@ -30,4 +30,4 @@ Add your app GIF here:
 
 ```md
 
-![](screen.gif)
+![](./screen.gif)
