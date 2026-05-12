@@ -28,6 +28,6 @@ Users can browse meal categories, view recipe details, ingredients, instructions
 
 Add your app GIF here:
 
-```md
+
 
 ![](./screen.gif)
